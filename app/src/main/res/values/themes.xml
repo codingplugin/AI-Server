@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.AIShare" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#22223B</item>
+        <item name="colorPrimaryVariant">#4A4E69</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#9A8C98</item>
+        <item name="colorSecondaryVariant">#22223B</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:windowBackground">#181825</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#B0B0B0</item>
+    </style>
+</resources>
