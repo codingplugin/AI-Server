@@ -9,7 +9,7 @@ object ApiClient {
     // Change this to your PythonAnywhere URL when deploying
     // For local development: "http://10.0.2.2:5000"
     // For PythonAnywhere: "http://yourusername.pythonanywhere.com"
-    private const val BASE_URL = "https://your-app.up.railway.app"
+    private const val BASE_URL = "https://web-production-b907c.up.railway.app/"
 
     private val okHttpClient = OkHttpClient.Builder()
         .connectTimeout(60, TimeUnit.SECONDS)
