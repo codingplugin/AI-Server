@@ -1,0 +1,31 @@
+# Ignore Android project files
+app/
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle.kts
+build.gradle.kts
+gradle.properties
+local.properties
+
+# Ignore Android Studio files
+.idea/
+*.iml
+
+# Ignore Android build outputs
+app/build/
+app/src/androidTest/
+app/src/test/
+app/src/main/java/com/example/ai_share/
+app/src/main/res/
+app/src/main/AndroidManifest.xml
+
+# Keep only Python backend files
+!server.py
+!model.py
+!predict.py
+!requirements.txt
+!Procfile
+!face_models/ 

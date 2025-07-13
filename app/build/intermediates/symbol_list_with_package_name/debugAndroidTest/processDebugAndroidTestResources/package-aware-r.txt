@@ -1,0 +1,3 @@
+com.example.ai_share.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
