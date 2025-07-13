@@ -1,6 +1,0 @@
-com.example.ai_share.test.app-core-1.5.0-0 C:\Users\nandi\.gradle\caches\8.13\transforms\6929869aae9a98db7250907d4672870d\transformed\core-1.5.0\res
-com.example.ai_share.test.app-annotation-experimental-1.3.0-1 C:\Users\nandi\.gradle\caches\8.13\transforms\f5f588a3218bedf4ab8a3667c0c02063\transformed\annotation-experimental-1.3.0\res
-com.example.ai_share.test.app-androidTest-2 C:\Users\nandi\AndroidStudioProjects\AIShare\app\build\generated\res\resValues\androidTest\debug
-com.example.ai_share.test.app-mergeDebugAndroidTestResources-3 C:\Users\nandi\AndroidStudioProjects\AIShare\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.ai_share.test.app-mergeDebugAndroidTestResources-4 C:\Users\nandi\AndroidStudioProjects\AIShare\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.ai_share.test.app-debugAndroidTest-5 C:\Users\nandi\AndroidStudioProjects\AIShare\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
