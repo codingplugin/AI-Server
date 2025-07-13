@@ -1,0 +1,17 @@
+app/
+*.iml
+*.apk
+*.bat
+*.sh
+*.md
+*.gradle
+*.kts
+*.pro
+*.toml
+*.pyc
+__pycache__/
+test_*.py
+*.ipynb
+.idea/
+.DS_Store
+uploads/ 
