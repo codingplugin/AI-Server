@@ -1,8 +1,9 @@
+cmake
+setuptools
+wheel
 flask==2.3.3
 face-recognition==1.3.0
 opencv-python==4.8.1.78
 numpy==1.24.3
 Pillow==10.0.0
 scikit-learn==1.3.0 
-setuptools 
-wheel 
