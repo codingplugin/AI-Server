@@ -95,5 +95,8 @@ def delete_model(model_name):
         return '', 500
 
 if __name__ == '__main__':
+    print("Starting Face Recognition Server...")
+    print("Server will be available at: https://your-app-name.onrender.com")
+    # Use 0.0.0.0 for Render and get port from environment
     port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port) 
+    app.run(host='0.0.0.0', port=port, debug=False) 
